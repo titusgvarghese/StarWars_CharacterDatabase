@@ -37,7 +37,12 @@ Order of Creation:
 3.	PRODUCTION
 4.	CHARCTER_PROD
 5.	PRODUCTION_TYPE
- ENTITY RELATION DIAGRAM
+
+
+
+ENTITY RELATION DIAGRAM
+*Attached*
+
 
 2.	Created the Tables
 USE [MFGTrain]
