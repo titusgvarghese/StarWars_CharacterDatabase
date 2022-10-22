@@ -1,5 +1,7 @@
 # StarWars_CharacterDatabase
+
 Created a Character Database using MS SQL Service Manager to generate various character reports
+![starwarsproject](https://user-images.githubusercontent.com/46428703/197353405-65d12dc8-cf5a-461e-84ba-7f4615994031.png)
 
 STEPS TO CREATE STAR WARS CHARACTER DATABASE
 1.	Brainstormed which tables would be necessary 
@@ -19,7 +21,8 @@ Character table (Primary Table)
 o	PK - CHARACTER_ID
 o	FK - SPECIES_ID
 o	NAME
-o	DOB
+o	DOB![starwarsproject](https://user-images.githubusercontent.com/46428703/197353400-26c2de67-7224-4367-86fe-a66698a910aa.png)
+
 o	HEIGHT
 o	WEIGHT
 Character Production table (Intersection Table)
