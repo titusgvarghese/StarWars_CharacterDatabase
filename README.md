@@ -21,8 +21,7 @@ Character table (Primary Table)
 o	PK - CHARACTER_ID
 o	FK - SPECIES_ID
 o	NAME
-o	DOB![starwarsproject](https://user-images.githubusercontent.com/46428703/197353400-26c2de67-7224-4367-86fe-a66698a910aa.png)
-
+o	DOB
 o	HEIGHT
 o	WEIGHT
 Character Production table (Intersection Table)
